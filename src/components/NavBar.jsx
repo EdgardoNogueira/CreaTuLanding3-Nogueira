@@ -8,7 +8,7 @@ const NavBar = () => {
       <div className="container-fluid">
         {/* Logo */}
         <Link className="navbar-brand fw-bold" to="/">
-          Mi E-Commerce
+          Comercio Nogueira
         </Link>
         
         {/* CartWidget  */}
